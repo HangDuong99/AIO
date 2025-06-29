@@ -1,9 +1,6 @@
-# AIO
-My AI &amp; Data Science Learning Journey
-
 ## 📚 AIO 2025 - Structured Learning Path for AI & Data Science
 
-I'm currently following the **AIO 2025** curriculum — a 12-module journey from Python foundations to deep learning and deployment.
+Coming from a background in plumbing engineering, I'm diving into the AIO 2025 curriculum — a structured 12-module roadmap from Python basics to advanced AI. It's my first step toward exploring the possibility of a career shift into artificial intelligence.
 
 | Module | Focus Area |
 |--------|------------|
