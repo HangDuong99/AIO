@@ -2,6 +2,8 @@
 
 Coming from a background in plumbing engineering, I'm diving into the AIO 2025 curriculum — a structured 12-module roadmap from Python basics to advanced AI. It's my first step toward exploring the possibility of a career shift into artificial intelligence.
 
+## 📆 Learning Modules Overview
+
 | Module | Focus Area |
 |--------|------------|
 | 1 | Python Basics & Core Math for AI |
